@@ -1,3 +1,5 @@
+# Hello! Thanks for stopping by my repo :D
+
 - 👋 Hi, I’m @braguda
   
   But you can call me Brian Aguda. 
